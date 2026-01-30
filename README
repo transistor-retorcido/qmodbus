@@ -28,9 +28,9 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 What is QModBus?
 ----------------
 
-QModBus is a free Qt-based implementation of a ModBus master application.
+QModBus is a free Qt-based implementation of a ModBus application.
 A graphical user interface allows easy communication with, ModBus slaves over
-serial line interface, or, ModBus Server over Ethernet interface (Modbus TCP). 
+serial line interface (ModBus RTU/ASCII), or, ModBus servers over Ethernet interface (ModBus TCP). 
 QModBus also includes a bus monitor for sniffing all
 traffic on the bus.
 
